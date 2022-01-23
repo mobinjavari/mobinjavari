@@ -33,8 +33,7 @@
 ![Gnome](https://img.shields.io/badge/-Gnome-141a20?style=flat&logo=Gnome)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=gotham&show_icons=true)&nbsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=gotham)](https://github.com/mobinjavari)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=gotham)](https://github.com/mobinjavari)
 
 ### 📫 &nbsp;Connect with Me
 [![gmail](https://img.shields.io/badge/-mobinjvr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mobinjvr@gmail.com)
