@@ -19,6 +19,7 @@
 ![Cpp](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus&logoColor=004482)&nbsp;
 ![Csharp](https://img.shields.io/badge/-CSharp-141a20?style=flat&logo=csharp&logoColor=05930C)&nbsp;
 ![mysql](https://img.shields.io/badge/-mySQL-141a20?style=flat&logo=mysql)&nbsp;
+![apache](https://img.shields.io/badge/-Apache-141a20?style=flat&logo=apache)&nbsp;
 ![php](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python&logoColor=CCB800)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
@@ -31,6 +32,8 @@
 ![XD](https://img.shields.io/badge/-Xd-141a20?style=flat&logo=adobe-xd)&nbsp;
 ![Lunacy](https://img.shields.io/badge/-Lunacy-141a20?style=flat&logo=lunacy)&nbsp;
 ![Gnome](https://img.shields.io/badge/-Gnome-141a20?style=flat&logo=Gnome)&nbsp;
+![LibreOffice](https://img.shields.io/badge/-LibreOffice-141a20?style=flat&logo=libreoffice)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=gotham&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=gotham)](https://github.com/mobinjavari)
