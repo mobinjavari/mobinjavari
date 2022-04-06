@@ -39,6 +39,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=light&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=light)](https://github.com/mobinjavari)
 
 ### 📫 &nbsp;Connect with Me
-[![gmail](https://img.shields.io/badge/-mobinjvr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mobinjvr@gmail.com)
+[![gmail](https://img.shields.io/badge/-mobinjavari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mobinjavari@gmail.com)
 [![telegram](https://img.shields.io/badge/-@mobinjavari-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/mobinjavari)
 [![twitter](https://img.shields.io/badge/-@mobinjavari-0e3e55?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mobinjavari)
