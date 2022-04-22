@@ -6,7 +6,9 @@
  and Web Developer, also an Open Source Lover 📃,  
 
 ### 🛠 &nbsp;Tech Stack
-![ubuntu linux](https://img.shields.io/badge/-Ubuntu_Linux-141a20?style=flat&logo=ubuntu)&nbsp;
+![linux](https://img.shields.io/badge/-Linux-141a20?style=flat&logo=linux&logoColor=fff)&nbsp;
+![arch linux](https://img.shields.io/badge/-Arch_Linux-141a20?style=flat&logo=archlinux)&nbsp;
+![ubuntu](https://img.shields.io/badge/-Ubuntu-141a20?style=flat&logo=ubuntu)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -25,13 +27,10 @@
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-141a20?style=flat&logo=visual-studio&logoColor=6C008A)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-141a20?style=flat&logo=sublime-text)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop)&nbsp;
-![XD](https://img.shields.io/badge/-Xd-141a20?style=flat&logo=adobe-xd)&nbsp;
 ![Lunacy](https://img.shields.io/badge/-Lunacy-141a20?style=flat&logo=lunacy)&nbsp;
 ![Gnome](https://img.shields.io/badge/-Gnome-141a20?style=flat&logo=Gnome)&nbsp;
+![Kde](https://img.shields.io/badge/-Kde-141a20?style=flat&logo=kde)&nbsp;
 ![LibreOffice](https://img.shields.io/badge/-LibreOffice-141a20?style=flat&logo=libreoffice)&nbsp;
 
 
