@@ -28,7 +28,7 @@
 ### 📫 &nbsp;Connect with Me
 [![telegram](https://img.shields.io/badge/-@mobinjavari-fff?style=flat&logo=Telegram&logoColor=white)](https://t.me/mobinjavari)
 [![gmail](https://img.shields.io/badge/-mobinjavari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mobinjavari@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+<!-- [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo) -->
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mobinjavari)](https://twitter.com/mobinjavari)
 
 
