@@ -35,7 +35,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=light&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=light)](https://github.com/mobinjavari)
 
+
 ### 📫 &nbsp;Connect with Me
 [![telegram](https://img.shields.io/badge/-@mobinjavari-fff?style=flat&logo=Telegram&logoColor=white)](https://t.me/mobinjavari)
 [![gmail](https://img.shields.io/badge/-mobinjavari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mobinjavari@gmail.com)
-[![twitter](https://img.shields.io/badge/-@mobinjavari-fff?style=flat&logo=twitter&logoColor=01a3f2)](https://twitter.com/mobinjavari)
+[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mobinjavari)](https://twitter.com/mobinjavari)
+
+
