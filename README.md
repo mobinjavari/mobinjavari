@@ -2,7 +2,7 @@
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a creative programmer
 - 🌱 I'm currently learning C, PHP, JS
-- ☕ I'm a Computer <del>Programmer</del> ![LOVE](https://img.shields.io/badge/-Lover-D61626)&nbsp;
+- ☕ I'm a Computer <del>Programmer</del> ![LOVE](https://img.shields.io/badge/-Lover-D43F3F)&nbsp;
  and Web Developer, also an Open Source Lover 📃,  
 
 ### 🛠 &nbsp;Tech Stack
