@@ -17,20 +17,9 @@
 ![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react)&nbsp;
 ![json](https://img.shields.io/badge/-JSON-141a20?style=flat&logo=json&logoColor=BABABA)&nbsp;
 ![Cpp](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus&logoColor=004482)&nbsp;
-![Csharp](https://img.shields.io/badge/-CSharp-141a20?style=flat&logo=csharp&logoColor=05930C)&nbsp;
-![mysql](https://img.shields.io/badge/-mySQL-141a20?style=flat&logo=mysql)&nbsp;
-![apache](https://img.shields.io/badge/-Apache-141a20?style=flat&logo=apache)&nbsp;
 ![php](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python&logoColor=CCB800)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-141a20?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-141a20?style=flat&logo=sublime-text)&nbsp;
-![Atom](https://img.shields.io/badge/-Atom-141a20?style=flat&logo=atom&logoColor=2ea043)&nbsp;
-![Gnome](https://img.shields.io/badge/-Gnome-141a20?style=flat&logo=Gnome)&nbsp;
-![Kde](https://img.shields.io/badge/-Kde-141a20?style=flat&logo=kde)&nbsp;
-![LibreOffice](https://img.shields.io/badge/-LibreOffice-141a20?style=flat&logo=libreoffice)&nbsp;
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=light&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=light)](https://github.com/mobinjavari)
