@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mobin Javari
 ### 👨🏻‍ &nbsp;About Me
 - 💻 I'm a creative programmer
-- 🌱 I'm currently learning C, PHP, JS
+- 🌱 I'm currently learning C
 - ☕ I'm a Computer <del>Programmer</del> ![LOVE](https://img.shields.io/badge/-Lover-D43F3F)&nbsp;
  and Web Developer, also an Open Source Lover 📃,  
 
