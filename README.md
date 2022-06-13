@@ -1,34 +1,26 @@
-## Hi there 👋 I'm Mobin Javari
-### 👨🏻‍ &nbsp;About Me
-- 💻 I'm a creative programmer
-- 🌱 I'm currently learning Javascript
-- ☕ I'm a Computer <del>Programmer</del> ![LOVE](https://img.shields.io/badge/-Lover-D43F3F)&nbsp;
- and Web Developer, also an Open Source Lover 📃,  
+<h1 align="center"><a href="https://mobinjavari.site/" target="_blanck">Hi, I'm Mobin Javari (:</a></h1>
+<p align="center">I'm a FullStack Developer and Open Source Lover</p><br><br>
 
-### 🛠 &nbsp;Tech Stack
-![linux](https://img.shields.io/badge/-Linux-141a20?style=flat&logo=linux&logoColor=fff)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-141a20?style=flat&logo=sass)&nbsp;
-![svg](https://img.shields.io/badge/-SVG-141a20?style=flat&logo=svg)&nbsp;
-![javascript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=JavaScript)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-141a20?style=flat&logo=jQuery&logoColor=0868AC)&nbsp;
-![React](https://img.shields.io/badge/-React-141a20?style=flat&logo=react)&nbsp;
-![json](https://img.shields.io/badge/-JSON-141a20?style=flat&logo=json&logoColor=BABABA)&nbsp;
-![Cpp](https://img.shields.io/badge/-C++-141a20?style=flat&logo=cplusplus&logoColor=004482)&nbsp;
-![php](https://img.shields.io/badge/-PHP-141a20?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-141a20?style=flat&logo=python&logoColor=CCB800)&nbsp;
-![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+### 👻 A little more about me :
+```php
+<?php
+    $MJVR = [
+        "Name"=>"Mobin Javari",
+        "Age"=>"17",
+        "Code"=>["HTML","CSS","Javascript","PHP","C#","C++","Python"],
+        "Tools"=>["SASS","Bootstap","jQuery","JSON","React","Laravel"]
+    ];
+?>
 
-### ⚙️ &nbsp;GitHub Analytics
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&theme=light&show_icons=true)&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&exclude_repo=mobinjavari.github.io&theme=light)](https://github.com/mobinjavari)
+```
+<br>
 
+### ⚙️ &nbsp;GitHub Analytics :
+ 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&show_icons=true&theme=react&hide_border=true)&nbsp; ![Top Langs](http://github-readme-streak-stats.herokuapp.com?user=mobinjavari&theme=react&hide_border=true)&nbsp;
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&theme=react&hide_border=true&show_icons)
 
-### 📫 &nbsp;Connect with Me
-[![telegram](https://img.shields.io/badge/-@mobinjavari-fff?style=flat&logo=Telegram&logoColor=white)](https://t.me/mobinjavari)
-[![gmail](https://img.shields.io/badge/-mobinjavari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mobinjavari@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mobinjavari)](https://twitter.com/mobinjavari)
-<!-- [![Github](https://img.shields.io/github/followers/mobinjavari?label=Follow&style=social)](https://github.com/mobinjavari) -->
+<br><br>
 
-
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mobinjavari&theme=react-dark&hide_border=true)  
+ -->
