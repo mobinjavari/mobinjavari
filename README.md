@@ -6,7 +6,7 @@
 <?php
     $MJVR = [
         "Name"=>"Mobin Javari",
-        "Age"=>"17",
+        "Age"=>"18",
         "Code"=>["HTML","CSS","Javascript","PHP","C#","C++","Python"],
         "Tools"=>["SASS","Bootstap","jQuery","JSON","React","Laravel"]
     ];
@@ -21,6 +21,13 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&theme=react&hide_border=true&show_icons)
 
 <br><br>
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-252932?labelColor=57BDDA&style=flat&logo=Linkedin&logoColor=20232A)](https://www.linkedin.com/in/mobinjavari/)
+[![Gmail](https://img.shields.io/badge/-Gmail-252932?labelColor=57BDDA&style=flat&logo=Gmail&logoColor=20232A)](mailto:mobinjavari@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-252932?labelColor=57BDDA&logo=instagram&logoColor=252932&link=https://instagram.com/mobinjvr/)](https://instagram.com/mobinjvr)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-252932?labelColor=57BDDA&logo=twitter&logoColor=20232A&link=https://twitter.com/mobinjavari)](https://twitter.com/mobinjavari)
+[![Discord Server](https://img.shields.io/badge/-Discord-252932?labelColor=57BDDA&logo=discord&logoColor=20232A&link=https://discord.gg/Q4kmuRQw)](https://discord.gg/Q4kmuRQw)
+
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mobinjavari&theme=react-dark&hide_border=true)  
  -->
