@@ -1,6 +1,6 @@
 <div align="center">
     <h1><a href="https://mobinjavari.site/" target="_blanck">Hi, I'm Mobin Javari (:</a></h1>
-    <image src="https://readme-typing-svg.herokuapp.com?font=vazir&size=16&color=95c7ff&center=true&width=510&height=45&lines=Im+a+FullStack+Developer+and+Open+Source+Lover">
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=95c7ff&center=true&width=510&height=45&lines=Im+a+FullStack+Developer+and+Open+Source+Lover">
 </div>
 
 <br>
