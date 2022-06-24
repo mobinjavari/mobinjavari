@@ -1,7 +1,10 @@
-<h1 align="center"><a href="https://mobinjavari.site/" target="_blanck">Hi, I'm Mobin Javari (:</a></h1>
-<p align="center">I'm a FullStack Developer and Open Source Lover</p><br><br>
+<div align="center">
+    <h1><a href="https://mobinjavari.site/" target="_blanck">Hi, I'm Mobin Javari (:</a></h1>
+    <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=ccc&center=true&width=510&height=45&lines=Im+a+FullStack+Developer+and+Open+Source+Lover">
+</div>
 
-### 👻 A little more about me :
+<br>
+
 ```php
 <?php
     $MJVR = [
@@ -11,23 +14,21 @@
         "Tools"=>["SASS","Bootstap","jQuery","JSON","React","Laravel"]
     ];
 ?>
-
 ```
+    
 <br>
+    
+<div align="center">
+    <a href="https://mobinjavari.site" title="Anurag's github stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=mobinjavari&show_icons=true&theme=github_dark&hide_border=false&&border_color=30363d"></a><br><br>
+    <a href="https://mobinjavari.site" title="Anurag's github stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&show_icons=true&layout=compact&theme=github_dark&hide_border=false&border_color=30363d"><a/><br>
+</div>
 
-### ⚙️ &nbsp;GitHub Analytics :
- 
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mobinjavari&show_icons=true&theme=react&hide_border=true)&nbsp; ![Top Langs](http://github-readme-streak-stats.herokuapp.com?user=mobinjavari&theme=react&hide_border=true)&nbsp;
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&layout=compact&theme=react&hide_border=true&show_icons)
-
-<br><br>
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-252932?labelColor=57BDDA&style=flat&logo=Linkedin&logoColor=20232A)](https://www.linkedin.com/in/mobinjavari/)
-[![Gmail](https://img.shields.io/badge/-Gmail-252932?labelColor=57BDDA&style=flat&logo=Gmail&logoColor=20232A)](mailto:mobinjavari@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-252932?labelColor=57BDDA&logo=instagram&logoColor=252932&link=https://instagram.com/mobinjvr/)](https://instagram.com/mobinjvr)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-252932?labelColor=57BDDA&logo=twitter&logoColor=20232A&link=https://twitter.com/mobinjavari)](https://twitter.com/mobinjavari)
-[![Discord Server](https://img.shields.io/badge/-Discord-252932?labelColor=57BDDA&logo=discord&logoColor=20232A&link=https://discord.gg/Q4kmuRQw)](https://discord.gg/Q4kmuRQw)
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mobinjavari&theme=react-dark&hide_border=true)  
- -->
+<br><br><br>
+    
+<div align="center">
+    <a href="https://www.linkedin.com/in/mobinjavari/" title="Linkedin"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-252932?labelColor=4C8EDA&style=flat&logo=Linkedin&logoColor=20232A"></a>
+    <a href="mailto:mobinjavari@gmail.com" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-252932?labelColor=4C8EDA&style=flat&logo=Gmail&logoColor=20232A"></a>
+    <a href="https://instagram.com/mobinjvr" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-252932?labelColor=4C8EDA&logo=instagram&logoColor=252932"></a>
+    <a href="https://twitter.com/mobinjavari" title="Twitter"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-252932?labelColor=4C8EDA&logo=twitter&logoColor=20232A"></a>
+    <a href="https://discord.gg/Q4kmuRQw" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/-Discord-252932?labelColor=4C8EDA&logo=discord&logoColor=20232A"></a>
+</div>
