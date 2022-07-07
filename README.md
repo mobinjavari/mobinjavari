@@ -10,8 +10,8 @@
     $MJVR = [
         "Name"=>"Mobin Javari",
         "Age"=>"18",
-        "Code"=>["HTML","CSS","Javascript","PHP","C++","Python"],
-        "Tools"=>["SASS","Bootstap","JSON","jQuery","React","Laravel"]
+        "Code"=>["HTML","CSS","Javascript","PHP","SQL","C++","Python"],
+        "Tools"=>["Git","Pug","SASS","Bootstap","JSON","jQuery","React","Laravel"]
     ];
 ?>
 ```
