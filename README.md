@@ -31,4 +31,5 @@
     <a href="https://instagram.com/mobinjvr" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-252932?labelColor=4C8EDA&logo=instagram&logoColor=252932"></a>
     <a href="https://twitter.com/mobinjavari" title="Twitter"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-252932?labelColor=4C8EDA&logo=twitter&logoColor=20232A"></a>
     <a href="https://discord.gg/Q4kmuRQw" title="Discord"><img alt="Discord" src="https://img.shields.io/badge/-Discord-252932?labelColor=4C8EDA&logo=discord&logoColor=20232A"></a>
+    <a href="https://dribbble.com/mobinjavari/about" title="Dribbble"><img alt="Dribbble" src="https://img.shields.io/badge/-dribbble-252932?labelColor=4C8EDA&logo=dribbble&logoColor=20232A"></a>
 </div>
