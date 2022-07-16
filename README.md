@@ -11,7 +11,7 @@
         "Name"=>"Mobin Javari",
         "Age"=>"18",
         "Code"=>["HTML","CSS","Javascript","PHP","SQL","C++"],
-        "Tools"=>["Git","Pug","SASS","Bootstap","JSON","jQuery","Laravel"]
+        "Tools"=>["Git","Pug","SASS","Bootstap","jQuery","Laravel"]
     ];
 ?>
 ```
