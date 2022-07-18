@@ -19,7 +19,7 @@
 <br>
     
 <div align="center">
-    <a href="https://mobinjavari.site" title="Anurag's github stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=mobinjavari&show_icons=true&theme=github_dark&hide_border=false&&border_color=30363d"></a><br><br>
+    <a href="https://mobinjavari.site" title="Anurag's github stats"><img alt="Anurag's github stats" src="https://github-readme-stats.vercel.app/api?username=mobinjavari&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&&border_color=30363d"></a><br><br>
     <a href="https://mobinjavari.site" title="Anurag's github stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinjavari&show_icons=true&layout=compact&theme=github_dark&hide_border=false&border_color=30363d"><a/><br>
 </div>
 
